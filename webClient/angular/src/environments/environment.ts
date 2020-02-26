@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   region: 'us-west-2',
-  userPoolId: 'myRSA-Test',
+  userPoolId: 'us-west-2_cvWLIlY0Z',
   userPoolWebClientId: '5n4jqvlnofovrnpluv939nv36p',
 };
 
